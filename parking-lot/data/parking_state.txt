@@ -1,0 +1,17 @@
+PARKING_LOT 1
+SPOTS 12
+SPOT 1 Compact
+SPOT 2 Compact
+SPOT 3 Compact
+SPOT 4 Compact
+SPOT 5 Regular
+SPOT 6 Regular
+SPOT 7 Regular
+SPOT 8 Regular
+SPOT 9 Large
+SPOT 10 Large
+SPOT 11 EV
+SPOT 12 EV
+STRATEGY hourly
+REVENUE 0.00
+END
